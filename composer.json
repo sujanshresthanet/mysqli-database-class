@@ -1,0 +1,23 @@
+{
+    "name": "sujanshresthanet/mysqli-database-class",
+    "description": "PHP MySQL Wrapper and object mapper which utilizes MySQLi and prepared statements",
+    "keywords": [
+        "mysqli",
+        "db-class",
+        "php"
+    ],
+    "license": "LGPL-3.0",
+    "authors": [
+        {
+            "name": "Sujan Shrestha",
+            "homepage": "https://github.com/sujanshresthanet",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "files": ["MysqliDbClass.php", "mysqliDbObject.php"]
+    }
+}
