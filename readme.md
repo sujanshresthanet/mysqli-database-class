@@ -5,29 +5,29 @@ MysqliDbClass -- MySQLi wrapper and object mapper with prepared statements
 
 ### Table of Contents
 
-**[Initialization](#initialization)**
-**[Objects mapping](#objects-mapping)**
-**[Insert Query](#insert-query)**
-**[Update Query](#update-query)**
-**[Select Query](#select-query)**
-**[Delete Query](#delete-query)**
-**[Insert Data](#insert-data)**
-**[Insert XML](#insert-xml)**
-**[Pagination](#pagination)**
-**[Running raw SQL queries](#running-raw-sql-queries)**
-**[Query Keywords](#query-keywords)**
-**[Where Conditions](#where--having-methods)**
-**[Order Conditions](#ordering-method)**
-**[Group Conditions](#grouping-method)**
-**[Properties Sharing](#properties-sharing)**
-**[Joining Tables](#join-method)**
-**[Subqueries](#subqueries)**
-**[EXISTS / NOT EXISTS condition](#exists--not-exists-condition)**
-**[Has method](#has-method)**
-**[Helper Methods](#helper-methods)**
-**[Transaction Helpers](#transaction-helpers)**
-**[Error Helpers](#error-helpers)**
-**[Table Locking](#table-locking)**
+- **[Initialization](#initialization)**
+- **[Objects mapping](#objects-mapping)**
+- **[Insert Query](#insert-query)**
+- **[Update Query](#update-query)**
+- **[Select Query](#select-query)**
+- **[Delete Query](#delete-query)**
+- **[Insert Data](#insert-data)**
+- **[Insert XML](#insert-xml)**
+- **[Pagination](#pagination)**
+- **[Running raw SQL queries](#running-raw-sql-queries)**
+- **[Query Keywords](#query-keywords)**
+- **[Where Conditions](#where--having-methods)**
+- **[Order Conditions](#ordering-method)**
+- **[Group Conditions](#grouping-method)**
+- **[Properties Sharing](#properties-sharing)**
+- **[Joining Tables](#join-method)**
+- **[Subqueries](#subqueries)**
+- **[EXISTS / NOT EXISTS condition](#exists--not-exists-condition)**
+- **[Has method](#has-method)**
+- **[Helper Methods](#helper-methods)**
+- **[Transaction Helpers](#transaction-helpers)**
+- **[Error Helpers](#error-helpers)**
+- **[Table Locking](#table-locking)**
 
 ### Installation
 To utilize this class, first import MysqliDbClass.php into your project, and require it.
